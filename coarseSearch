@@ -1,0 +1,559 @@
+performance on training set 45.3%
+eta: 0.0192775     lamda: 0.0001000
+performance on validation set 40.5%
+train errror:  0.6	validation error:  0.5
+train loss: [[2.30258519]
+ [2.08911973]
+ [1.85962151]
+ [1.7248101 ]
+ [1.63717271]]
+performance on training set 41.0%
+eta: 0.0192775     lamda: 0.0010000
+performance on validation set 37.9%
+train errror:  0.6	validation error:  0.6
+train loss: [[2.30258519]
+ [2.18508984]
+ [1.93721873]
+ [1.80069646]
+ [1.71298743]]
+performance on training set 37.7%
+eta: 0.0192775     lamda: 0.0050000
+performance on validation set 36.0%
+train errror:  0.6	validation error:  0.6
+train loss: [[2.30258519]
+ [2.26752436]
+ [2.00790494]
+ [1.89215089]
+ [1.80279112]]
+performance on training set 34.3%
+eta: 0.0192775     lamda: 0.0100000
+performance on validation set 33.4%
+train errror:  0.7	validation error:  0.7
+train loss: [[2.30258519]
+ [2.29461628]
+ [2.08843616]
+ [1.97752097]
+ [1.9002652 ]]
+performance on training set 24.7%
+eta: 0.0192775     lamda: 0.0500000
+performance on validation set 23.4%
+train errror:  0.8	validation error:  0.8
+train loss: [[2.30258519]
+ [2.30119157]
+ [2.23732795]
+ [2.11221521]
+ [2.05055207]]
+performance on training set 20.9%
+eta: 0.0192775     lamda: 0.1000000
+performance on validation set 20.0%
+train errror:  0.8	validation error:  0.8
+train loss: [[2.30258519]
+ [2.30213243]
+ [2.29834691]
+ [2.25514358]
+ [2.19300689]]
+performance on training set 10.3%
+eta: 0.0192775     lamda: 0.5000000
+performance on validation set 10.1%
+train errror:  0.9	validation error:  0.9
+train loss: [[2.30258519]
+ [2.3023866 ]
+ [2.30229632]
+ [2.30225299]
+ [2.30223126]]
+performance on training set 10.3%
+eta: 0.0192775     lamda: 1.0000000
+performance on validation set 10.1%
+train errror:  0.9	validation error:  0.9
+train loss: [[2.30258519]
+ [2.30242152]
+ [2.30233305]
+ [2.30228348]
+ [2.30225479]]
+performance on training set 43.1%
+eta: 0.0166778     lamda: 0.0001000
+performance on validation set 39.1%
+train errror:  0.6	validation error:  0.6
+train loss: [[2.30258519]
+ [2.14511728]
+ [1.90223155]
+ [1.76256965]
+ [1.67734135]]
+performance on training set 39.9%
+eta: 0.0166778     lamda: 0.0010000
+performance on validation set 37.3%
+train errror:  0.6	validation error:  0.6
+train loss: [[2.30258519]
+ [2.2349555 ]
+ [1.97395379]
+ [1.84314348]
+ [1.751403  ]]
+performance on training set 36.2%
+eta: 0.0166778     lamda: 0.0050000
+performance on validation set 34.8%
+train errror:  0.7	validation error:  0.6
+train loss: [[2.30258519]
+ [2.28680534]
+ [2.04536906]
+ [1.93710357]
+ [1.84610258]]
+performance on training set 32.4%
+eta: 0.0166778     lamda: 0.0100000
+performance on validation set 31.3%
+train errror:  0.7	validation error:  0.7
+train loss: [[2.30258519]
+ [2.29857601]
+ [2.13917571]
+ [2.00976357]
+ [1.94181226]]
+performance on training set 24.4%
+eta: 0.0166778     lamda: 0.0500000
+performance on validation set 22.9%
+train errror:  0.8	validation error:  0.8
+train loss: [[2.30258519]
+ [2.30167185]
+ [2.27225729]
+ [2.15195857]
+ [2.07779624]]
+performance on training set 19.1%
+eta: 0.0166778     lamda: 0.1000000
+performance on validation set 18.5%
+train errror:  0.8	validation error:  0.8
+train loss: [[2.30258519]
+ [2.30221696]
+ [2.30043233]
+ [2.28149058]
+ [2.22195784]]
+performance on training set 10.3%
+eta: 0.0166778     lamda: 0.5000000
+performance on validation set 10.1%
+train errror:  0.9	validation error:  0.9
+train loss: [[2.30258519]
+ [2.30240653]
+ [2.30231685]
+ [2.30226953]
+ [2.30224367]]
+performance on training set 10.3%
+eta: 0.0166778     lamda: 1.0000000
+performance on validation set 10.1%
+train errror:  0.9	validation error:  0.9
+train loss: [[2.30258519]
+ [2.30243928]
+ [2.30235407]
+ [2.30230277]
+ [2.30227103]]
+performance on training set 49.7%
+eta: 0.0923295     lamda: 0.0001000
+performance on validation set 38.4%
+train errror:  0.6	validation error:  0.5
+train loss: [[2.30258519]
+ [1.79637632]
+ [1.60758564]
+ [1.55105822]
+ [1.5180111 ]]
+performance on training set 48.4%
+eta: 0.0923295     lamda: 0.0010000
+performance on validation set 39.3%
+train errror:  0.6	validation error:  0.5
+train loss: [[2.30258519]
+ [1.80431457]
+ [1.66687011]
+ [1.58648   ]
+ [1.51591747]]
+performance on training set 46.7%
+eta: 0.0923295     lamda: 0.0050000
+performance on validation set 40.3%
+train errror:  0.6	validation error:  0.5
+train loss: [[2.30258519]
+ [1.84102119]
+ [1.67839598]
+ [1.59338874]
+ [1.54148441]]
+performance on training set 44.7%
+eta: 0.0923295     lamda: 0.0100000
+performance on validation set 40.8%
+train errror:  0.6	validation error:  0.6
+train loss: [[2.30258519]
+ [1.9118693 ]
+ [1.73218405]
+ [1.65812753]
+ [1.6133261 ]]
+performance on training set 34.8%
+eta: 0.0923295     lamda: 0.0500000
+performance on validation set 33.8%
+train errror:  0.7	validation error:  0.7
+train loss: [[2.30258519]
+ [2.04367594]
+ [1.95580548]
+ [1.9149854 ]
+ [1.90153584]]
+performance on training set 25.4%
+eta: 0.0923295     lamda: 0.1000000
+performance on validation set 24.0%
+train errror:  0.8	validation error:  0.7
+train loss: [[2.30258519]
+ [2.18369173]
+ [2.08709428]
+ [2.0732939 ]
+ [2.06333154]]
+performance on training set 10.3%
+eta: 0.0923295     lamda: 0.5000000
+performance on validation set 9.9%
+train errror:  0.9	validation error:  0.9
+train loss: [[2.30258519]
+ [2.30224776]
+ [2.30224986]
+ [2.30224369]
+ [2.302237  ]]
+performance on training set 10.3%
+eta: 0.0923295     lamda: 1.0000000
+performance on validation set 9.9%
+train errror:  0.9	validation error:  0.9
+train loss: [[2.30258519]
+ [2.30222811]
+ [2.3022194 ]
+ [2.30221734]
+ [2.30221468]]
+performance on training set 47.8%
+eta: 0.0240801     lamda: 0.0001000
+performance on validation set 41.8%
+train errror:  0.6	validation error:  0.5
+train loss: [[2.30258519]
+ [2.02796778]
+ [1.79154975]
+ [1.66683218]
+ [1.57635793]]
+performance on training set 44.7%
+eta: 0.0240801     lamda: 0.0010000
+performance on validation set 39.7%
+train errror:  0.6	validation error:  0.6
+train loss: [[2.30258519]
+ [2.10355684]
+ [1.87165988]
+ [1.73755239]
+ [1.65416631]]
+performance on training set 40.2%
+eta: 0.0240801     lamda: 0.0050000
+performance on validation set 37.1%
+train errror:  0.6	validation error:  0.6
+train loss: [[2.30258519]
+ [2.20242038]
+ [1.95568369]
+ [1.82782918]
+ [1.74415128]]
+performance on training set 36.6%
+eta: 0.0240801     lamda: 0.0100000
+performance on validation set 35.2%
+train errror:  0.6	validation error:  0.6
+train loss: [[2.30258519]
+ [2.27637001]
+ [2.02459302]
+ [1.92057272]
+ [1.83496869]]
+performance on training set 26.6%
+eta: 0.0240801     lamda: 0.0500000
+performance on validation set 25.0%
+train errror:  0.8	validation error:  0.7
+train loss: [[2.30258519]
+ [2.29938278]
+ [2.17098063]
+ [2.06215714]
+ [2.02147136]]
+performance on training set 22.5%
+eta: 0.0240801     lamda: 0.1000000
+performance on validation set 21.0%
+train errror:  0.8	validation error:  0.8
+train loss: [[2.30258519]
+ [2.30190871]
+ [2.28801009]
+ [2.20547315]
+ [2.15269005]]
+performance on training set 10.3%
+eta: 0.0240801     lamda: 0.5000000
+performance on validation set 10.1%
+train errror:  0.9	validation error:  0.9
+train loss: [[2.30258519]
+ [2.30235389]
+ [2.30226687]
+ [2.30223185]
+ [2.30221686]]
+performance on training set 10.3%
+eta: 0.0240801     lamda: 1.0000000
+performance on validation set 10.1%
+train errror:  0.9	validation error:  0.9
+train loss: [[2.30258519]
+ [2.30239163]
+ [2.30230109]
+ [2.3022567 ]
+ [2.30223397]]
+performance on training set 51.0%
+eta: 0.0505924     lamda: 0.0001000
+performance on validation set 41.7%
+train errror:  0.6	validation error:  0.5
+train loss: [[2.30258519]
+ [1.84084138]
+ [1.63966136]
+ [1.53692734]
+ [1.45901442]]
+performance on training set 49.9%
+eta: 0.0505924     lamda: 0.0010000
+performance on validation set 41.5%
+train errror:  0.6	validation error:  0.5
+train loss: [[2.30258519]
+ [1.90760377]
+ [1.68781225]
+ [1.57026253]
+ [1.49041286]]
+performance on training set 47.1%
+eta: 0.0505924     lamda: 0.0050000
+performance on validation set 41.8%
+train errror:  0.6	validation error:  0.5
+train loss: [[2.30258519]
+ [1.9820437 ]
+ [1.75325566]
+ [1.65162552]
+ [1.57901239]]
+performance on training set 43.4%
+eta: 0.0505924     lamda: 0.0100000
+performance on validation set 39.7%
+train errror:  0.6	validation error:  0.6
+train loss: [[2.30258519]
+ [2.04859546]
+ [1.84294535]
+ [1.73602805]
+ [1.67481316]]
+performance on training set 34.0%
+eta: 0.0505924     lamda: 0.0500000
+performance on validation set 32.4%
+train errror:  0.7	validation error:  0.7
+train loss: [[2.30258519]
+ [2.19423808]
+ [2.01688098]
+ [1.97100617]
+ [1.93195952]]
+performance on training set 24.4%
+eta: 0.0505924     lamda: 0.1000000
+performance on validation set 22.7%
+train errror:  0.8	validation error:  0.8
+train loss: [[2.30258519]
+ [2.2920012 ]
+ [2.14679663]
+ [2.09613769]
+ [2.08148461]]
+performance on training set 10.3%
+eta: 0.0505924     lamda: 0.5000000
+performance on validation set 9.9%
+train errror:  0.9	validation error:  0.9
+train loss: [[2.30258519]
+ [2.30224827]
+ [2.30221049]
+ [2.30220511]
+ [2.30220369]]
+performance on training set 10.3%
+eta: 0.0505924     lamda: 1.0000000
+performance on validation set 9.9%
+train errror:  0.9	validation error:  0.9
+train loss: [[2.30258519]
+ [2.30228055]
+ [2.30222032]
+ [2.30220669]
+ [2.30220306]]
+performance on training set 41.7%
+eta: 0.0150804     lamda: 0.0001000
+performance on validation set 38.2%
+train errror:  0.6	validation error:  0.6
+train loss: [[2.30258519]
+ [2.18019995]
+ [1.93222351]
+ [1.79459311]
+ [1.70455041]]
+performance on training set 38.6%
+eta: 0.0150804     lamda: 0.0010000
+performance on validation set 36.4%
+train errror:  0.6	validation error:  0.6
+train loss: [[2.30258519]
+ [2.26224197]
+ [1.99841249]
+ [1.87441105]
+ [1.78233588]]
+performance on training set 35.2%
+eta: 0.0150804     lamda: 0.0050000
+performance on validation set 34.0%
+train errror:  0.7	validation error:  0.6
+train loss: [[2.30258519]
+ [2.29332418]
+ [2.07582873]
+ [1.96369377]
+ [1.87761185]]
+performance on training set 30.6%
+eta: 0.0150804     lamda: 0.0100000
+performance on validation set 29.8%
+train errror:  0.7	validation error:  0.7
+train loss: [[2.30258519]
+ [2.29996817]
+ [2.17618429]
+ [2.03417986]
+ [1.96688055]]
+performance on training set 23.9%
+eta: 0.0150804     lamda: 0.0500000
+performance on validation set 22.4%
+train errror:  0.8	validation error:  0.8
+train loss: [[2.30258519]
+ [2.30187318]
+ [2.2859741 ]
+ [2.18139892]
+ [2.10090142]]
+performance on training set 17.8%
+eta: 0.0150804     lamda: 0.1000000
+performance on validation set 17.1%
+train errror:  0.8	validation error:  0.8
+train loss: [[2.30258519]
+ [2.30226017]
+ [2.30113152]
+ [2.29113151]
+ [2.24484644]]
+performance on training set 10.3%
+eta: 0.0150804     lamda: 0.5000000
+performance on validation set 10.1%
+train errror:  0.9	validation error:  0.9
+train loss: [[2.30258519]
+ [2.30241959]
+ [2.30233141]
+ [2.30228207]
+ [2.30225364]]
+performance on training set 10.3%
+eta: 0.0150804     lamda: 1.0000000
+performance on validation set 10.1%
+train errror:  0.9	validation error:  0.9
+train loss: [[2.30258519]
+ [2.30245078]
+ [2.30236848]
+ [2.30231672]
+ [2.30228335]]
+performance on training set 48.4%
+eta: 0.0270953     lamda: 0.0001000
+performance on validation set 41.9%
+train errror:  0.6	validation error:  0.5
+train loss: [[2.30258519]
+ [1.99980562]
+ [1.75770796]
+ [1.63609681]
+ [1.54487737]]
+performance on training set 45.9%
+eta: 0.0270953     lamda: 0.0010000
+performance on validation set 40.9%
+train errror:  0.6	validation error:  0.5
+train loss: [[2.30258519]
+ [2.06381613]
+ [1.83818567]
+ [1.70690461]
+ [1.6190158 ]]
+performance on training set 41.4%
+eta: 0.0270953     lamda: 0.0050000
+performance on validation set 37.9%
+train errror:  0.6	validation error:  0.6
+train loss: [[2.30258519]
+ [2.16273623]
+ [1.92571236]
+ [1.79441141]
+ [1.71493031]]
+performance on training set 37.6%
+eta: 0.0270953     lamda: 0.0100000
+performance on validation set 35.9%
+train errror:  0.6	validation error:  0.6
+train loss: [[2.30258519]
+ [2.25279094]
+ [1.99719395]
+ [1.88637596]
+ [1.80546138]]
+performance on training set 28.0%
+eta: 0.0270953     lamda: 0.0500000
+performance on validation set 26.6%
+train errror:  0.7	validation error:  0.7
+train loss: [[2.30258519]
+ [2.29714029]
+ [2.13626668]
+ [2.04220538]
+ [2.00940823]]
+performance on training set 23.2%
+eta: 0.0270953     lamda: 0.1000000
+performance on validation set 21.6%
+train errror:  0.8	validation error:  0.8
+train loss: [[2.30258519]
+ [2.3016963 ]
+ [2.27361434]
+ [2.18295768]
+ [2.13434813]]
+performance on training set 10.3%
+eta: 0.0270953     lamda: 0.5000000
+performance on validation set 10.1%
+train errror:  0.9	validation error:  0.9
+train loss: [[2.30258519]
+ [2.30233588]
+ [2.30225289]
+ [2.30222302]
+ [2.30221145]]
+performance on training set 10.3%
+eta: 0.0270953     lamda: 1.0000000
+performance on validation set 10.1%
+train errror:  0.9	validation error:  0.9
+train loss: [[2.30258519]
+ [2.30237465]
+ [2.30228483]
+ [2.30224436]
+ [2.30222517]]
+performance on training set 50.9%
+eta: 0.0962924     lamda: 0.0001000
+performance on validation set 39.4%
+train errror:  0.6	validation error:  0.5
+train loss: [[2.30258519]
+ [1.77013705]
+ [1.62296347]
+ [1.5169567 ]
+ [1.43392001]]
+performance on training set 47.7%
+eta: 0.0962924     lamda: 0.0010000
+performance on validation set 39.1%
+train errror:  0.6	validation error:  0.5
+train loss: [[2.30258519]
+ [1.81471305]
+ [1.66985186]
+ [1.57067183]
+ [1.52166618]]
+performance on training set 46.8%
+eta: 0.0962924     lamda: 0.0050000
+performance on validation set 40.4%
+train errror:  0.6	validation error:  0.5
+train loss: [[2.30258519]
+ [1.83033132]
+ [1.67647516]
+ [1.60030644]
+ [1.55427909]]
+performance on training set 44.3%
+eta: 0.0962924     lamda: 0.0100000
+performance on validation set 40.1%
+train errror:  0.6	validation error:  0.6
+train loss: [[2.30258519]
+ [1.90066658]
+ [1.73030524]
+ [1.66088568]
+ [1.61829703]]
+performance on training set 34.9%
+eta: 0.0962924     lamda: 0.0500000
+performance on validation set 33.9%
+train errror:  0.7	validation error:  0.7
+train loss: [[2.30258519]
+ [2.03823933]
+ [1.95096887]
+ [1.91354065]
+ [1.90084763]]
+performance on training set 25.6%
+eta: 0.0962924     lamda: 0.1000000
+performance on validation set 24.1%
+train errror:  0.8	validation error:  0.7
+train loss: [[2.30258519]
+ [2.17532601]
+ [2.08580014]
+ [2.07214845]
+ [2.06212772]]
+
